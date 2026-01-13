@@ -28,6 +28,7 @@
 <img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-0081CB?logo=material-ui&logoColor=white">
 <img alt="vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white">
 </p>
+
 ## 🚀 Featured Projects
 
 <table>
