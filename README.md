@@ -6,12 +6,16 @@
   </a>
 </p>
 
+---
+
 ## 🧑‍💻 About Me
 
 - 💼 I'm a frontend developer with a passion for creating modern, responsive websites.
 - 🔥 I enjoy building UI-focused projects with a focus on user experience.
 - 🎯 My goal is to create intuitive and visually appealing web experiences.
 - 🚀 Currently improving my skills in JavaScript and React.
+
+---
 
 ## 🧰 Tech Stack
 
@@ -28,6 +32,8 @@
 <img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-0081CB?logo=material-ui&logoColor=white">
 <img alt="vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white">
 </p>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -46,6 +52,8 @@
     <td>React, TypeScript, Vite, CSS, Material UI, npm</td>
   </tr>
 </table>
+
+---
 
 ## 📫 Contact Me
 
