@@ -44,12 +44,23 @@
     <th>Tech Stack</th>
   </tr>
   <tr>
-    <td><a href="https://sangtrantamly.github.io/Study-ELS/">Study-ELS</a></td>
+    <td><a href="https://sangtrantamly.github.io/Study-ELS/"target="_blank">Study-ELS</a></td>
     <td>
       A web platform for learning English online with focus on smart tools for listening, speaking, reading, and writing. 🌍 
       Website đang được xây dựng, hỗ trợ các UI mock cho flashcards, dictionary, translator, quiz và AI practice nhằm tăng hiệu quả học tập.
     </td>
     <td>React, TypeScript, Vite, CSS, Material UI, npm</td>
+  </tr>
+  <tr>
+    <td> <a href="https://sangtrantamly.github.io/Study-DEV/" target="_blank">Study-DEV (Portfolio)</a></td>
+    <td>
+      Personal portfolio website đang được phát triển, dùng để giới thiệu bản thân,
+      kỹ năng lập trình và các dự án Web Development.
+      <br/><br/>
+      Dự án tập trung vào giao diện hiện đại, clean UI, component hoá rõ ràng
+      và khả năng mở rộng trong tương lai (blog, project detail, animation, dark mode).
+    </td>
+    <td> HTML, CSS, JavaScript</td>
   </tr>
 </table>
 
