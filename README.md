@@ -46,8 +46,8 @@
   <tr>
     <td><a href="https://sangtrantamly.github.io/Study-ELS/"target="_blank">Study-ELS</a></td>
     <td>
-      A web platform for learning English online with focus on smart tools for listening, speaking, reading, and writing. 🌍 
-      Website đang được xây dựng, hỗ trợ các UI mock cho flashcards, dictionary, translator, quiz và AI practice nhằm tăng hiệu quả học tập.
+      A web platform for learning English online with focus on smart tools for listening, speaking, reading, and writing. <br/><br/>
+      🌍 Website đang được xây dựng, hỗ trợ các UI mock cho flashcards, dictionary, translator, quiz và AI practice nhằm tăng hiệu quả học tập.
     </td>
     <td>React, TypeScript, Vite, CSS, Material UI, npm</td>
   </tr>
