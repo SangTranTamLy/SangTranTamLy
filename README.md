@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SangTranTamLy&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SangTranTamLy&bg_color=0F172A&color=38BDF8&line=60A5FA&point=FFFFFF&area=true&hide_border=true&custom_title=T.Sang's%20Contribution%20Graph" alt="GitHub Activity Graph" />
 </p>
 
 ---
